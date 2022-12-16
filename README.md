@@ -9,4 +9,4 @@ pip install bs4
 pkg install git
 git clone https://github.com/litonvaujr/2010
 cd 2010
-python 2010.py
+python 2010-.py
